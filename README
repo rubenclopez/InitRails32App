@@ -1,0 +1,13 @@
+This application was designed to initialize a raisls 3.2 application
+with custom gemfiles customizations, and additional templates that you would
+have to add manually. This application was created for those who are tired of having to do the usual modification of the .gitignore, adding :test, :development groups for RSPEC and Cucumber/Capybara, and anything else that I usually use in my working environment. "
+
+This version includes
+	- RSPEC installs and configures properly
+	- TODO: .gitignore
+	- TODO: .HAML / SASS as default
+	- TODO: .layout changed to HAML
+	- TODO: Other additions that I can't think of right now :P 
+
+Rubén López
+
